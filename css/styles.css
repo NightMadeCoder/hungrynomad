@@ -3810,8 +3810,11 @@ body.menu-is-open {
 
     .s-intro__pretitle:before,
     .s-intro__pretitle:after {
-        width: 1em;
+        width: 1.5em;
     }
+    .s-intro__title {
+   font-size: var(--text-xs)
+}
 }
 
 
